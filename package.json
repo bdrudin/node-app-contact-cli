@@ -1,0 +1,11 @@
+{
+  "name": "app-contact-cli",
+  "version": "1.0.0",
+  "description": "Aplikasi menambah contact di node js menggunakan cli",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Badrudin",
+  "license": "ISC"
+}
